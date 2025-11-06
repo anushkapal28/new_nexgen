@@ -131,7 +131,7 @@
     </p>
   </div>
 
-  <img class="servicesimg" src="../assets/APIwhatsapp.png" alt="Services">
+  <img class="servicesimg" src="../assets/APIWhatsapp.png" alt="Services">
 
   <hr>
 
@@ -147,98 +147,87 @@
 </section>
 <div class="container fade-in">
       <!-- Left Video Section -->
-      <video src="../assets/whatsapp.mp4" height="580" autoplay muted loop playsinline></video>
+      <video src="../assets/Whatsapp.mp4" height="580" autoplay muted loop playsinline></video>
 
       <!-- Right Steps Section -->
       <div class="steps">
   <div class="step-item">
     <div class="step-question">
-      <span>Step 1. Understand Your Messaging Goals</span>
+      <span>Step 1. Verify & Connect Your Business</span>
       <span class="arrow">&#9660;</span>
     </div>
     <div class="step-answer">
-      We identify your campaign objectives, target audience, and desired outcomes, ensuring the Bulk
-      SMS strategy delivers maximum reach, engagement, and conversions for your brand.
+      We help you get your business officially verified on WhatsApp, ensuring you earn customer trust with the green checkmark. Then we integrate the API with your CRM, e-commerce platform, or marketing tools.
     </div>
   </div>
 
   <div class="step-item">
     <div class="step-question">
-      <span>Step 2. Prepare & Segment Contact List</span>
+      <span>Step 2. Set Up Your Messaging Dashboard</span>
       <span class="arrow">&#9660;</span>
     </div>
     <div class="step-answer">
-      We clean, verify, and segment your recipient database to ensure accurate targeting, higher
-      delivery rates, and better engagement for every SMS campaign.
+      Get a central hub to manage all conversations. Send, receive, and organize messages from one place — whether it’s bulk campaigns or one-to-one chats.
     </div>
   </div>
 
   <div class="step-item">
     <div class="step-question">
-      <span>Step 3. Craft Compelling SMS Content</span>
+      <span>Step 3. Choose Your Messaging Type</span>
       <span class="arrow">&#9660;</span>
     </div>
     <div class="step-answer">
-      Our team creates short, persuasive, and action-driven SMS messages that clearly convey your
-      offer or information while maintaining compliance with character limits and regulations.
+      Session Messages are triggered when customers contact you and allow free-form replies for 24 hours, while Template Messages are pre-approved by WhatsApp for sending alerts, reminders, updates, or offers beyond that window.
     </div>
   </div>
 
   <div class="step-item">
     <div class="step-question">
-      <span>Step 4. Personalise Messaging for Recipients</span>
+      <span>Step 4. Automate Customer Support</span>
       <span class="arrow">&#9660;</span>
     </div>
     <div class="step-answer">
-      We use dynamic fields like names, locations, and relevant details to make each SMS feel
-      personal, increasing the likelihood of customer interaction and response.
+      Deploy chatbots to instantly answer FAQs, process common requests, and route complex queries to live agents. Reduce response times and keep customers happy 24/7.
     </div>
   </div>
 
   <div class="step-item">
     <div class="step-question">
-      <span>Step 5. Schedule SMS Campaign Delivery</span>
+      <span>Step 5. Deliver Order & Service Updates</span>
       <span class="arrow">&#9660;</span>
     </div>
     <div class="step-answer">
-      We plan optimal sending times based on audience behaviour, ensuring messages are delivered when
-      recipients are most likely to read and respond.
+      Send order confirmations, delivery alerts, and real-time tracking updates straight to your customer’s WhatsApp inbox — where they’ll actually see them.
     </div>
   </div>
 
   <div class="step-item">
     <div class="step-question">
-      <span>Step 6. Enable Two-Way Communication</span>
+      <span>Step 6. Run Targeted Marketing Campaigns</span>
       <span class="arrow">&#9660;</span>
     </div>
     <div class="step-answer">
-      We set up response tracking and reply management so customers can interact directly with your
-      campaign, improving engagement and feedback collection.
+      Promote flash sales, new product launches, seasonal discounts, and event invitations to a segmented audience for higher engagement and conversions.
     </div>
   </div>
 
   <div class="step-item">
     <div class="step-question">
-      <span>Step 7. Monitor Delivery & Engagement</span>
+      <span>Step 7. Boost Lead Generation</span>
       <span class="arrow">&#9660;</span>
     </div>
     <div class="step-answer">
-      We track delivery reports, open rates, and click-through metrics in real time, giving clear
-      insights into campaign performance and recipient behaviour.
+      Capture leads automatically from Facebook, Instagram, and your website. Start conversations instantly with pre-defined welcome messages and nurture them into paying customers.
     </div>
   </div>
 
   <div class="step-item">
     <div class="step-question">
-      <span>Step 8. Optimise for Future Campaigns</span>
+      <span>Step 8. Measure & Optimize</span>
       <span class="arrow">&#9660;</span>
     </div>
     <div class="step-answer">
-      We analyse campaign results to refine content, timing, and targeting strategies, ensuring
-      higher engagement and improved ROI for your future Bulk SMS campaigns.
-    </div>
-  </div>
-</div>
+      Track delivery rates, open rates, response times, and conversions. Use these insights to fine-tune your communication strategy and achieve maximum ROI.
 
     </div>
     </div>
